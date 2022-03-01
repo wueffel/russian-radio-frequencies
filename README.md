@@ -34,5 +34,8 @@ HAM bands ***(unlikely military)*** :
 please add verified frequencies and modulation, by creating a pull request or an issue!
 
 
-### csv memories
+
+## csv memories
 there is also a .csv file, which you can upload under the tab "memories" on the webSDR
+[click here to download .csv](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/wueffel/russian-radio-frequencies/blob/main/websdr_memories.csv)
+
