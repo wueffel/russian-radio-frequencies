@@ -1,6 +1,5 @@
 # russian-radio-frequencies
-## active radio frequencies to listen to on webSDR, for example http://websdr.ewi.utwente.nl:8901 (remember: always use the "paste freq&mode" button when 
-referring to a frequency)
+## active radio frequencies to listen to on webSDR, for example http://websdr.ewi.utwente.nl:8901 ()
 
 - 4220 kHz USB
 - 4615 kHz USB
@@ -12,8 +11,10 @@ referring to a frequency)
 - 8131 kHz USB (Russian Strategic Air Force Bombers TU-95)
 - 9741 kHz
 
-[Source Twitter](https://twitter.com/DeepNetAnon/status/1497772231816065028)
+[Initial Source Twitter](https://twitter.com/DeepNetAnon/status/1497772231816065028)
 
+*remember:* always use the **"paste freq&mode"** button when 
+referring to a frequency!
 
 ## more tips and tricks
 filter: 2,40 kHz - 3,40 kHz is a good starting point for voice
