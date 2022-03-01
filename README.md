@@ -16,7 +16,7 @@
 | 7933.00 | USB  |                           | 2.70 |
 | 8090.00 | USB  |                           | 2.70 |
 | 8131.00 | USB  | TU-95 Bombers             | 2.70 |
-| 9741.00 | USB  |                           | 2.70 |
+
 
 - [initial source twitter](https://twitter.com/DeepNetAnon/status/1497772231816065028)
 - [priyom](https://priyom.org/)
