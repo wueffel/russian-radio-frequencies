@@ -8,6 +8,7 @@
 - 4946,5 kHz
 - 5125 kHz USB
 - 7933 kHz USB 
+- 8090 kHz USB
 - 8131 kHz USB (Russian Strategic Air Force Bombers TU-95)
 - 9741 kHz
 
