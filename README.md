@@ -6,6 +6,7 @@ active radio frequencies to listen to on webSDR, for example http://websdr.ewi.u
 - 4625 KHz USB
 - 4813 KHz USB
 - 5125 KHz USB
+- 7933 KHz USB 
 - 8131 (Russian Air Force)
 
 
