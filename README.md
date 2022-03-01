@@ -1,18 +1,18 @@
 # russian-radio-frequencies
 ## active radio frequencies to listen to on webSDR
 
-| freq (kHz)   | mode | label         | filter   |
+| freq    | mode | label         | filter   |
 | ------- | ---- | ------------- | ---- |
 | 4220.00 | USB  |               | 2.70 |
 | 4615.00 | USB  |               | 2.70 |
-| 4625.00 | USB  |               | 2.70 |
+| 4625.00 |   | The Buzzer    | 2.70 |
 | 4813.00 | USB  |               | 2.70 |
-| 4946.50 |      |               | 2.70 |
+| 4946.50 | USB  |               | 2.70 |
 | 5125.00 | USB  |               | 2.70 |
 | 7933.00 | USB  |               | 2.70 |
-| 8090.00 | USB  |               | 2.70 |
+| 8090.00 |   |               | 2.70 |
 | 8131.00 | USB  | TU-95 Bombers | 2.70 |
-| 9741.00 |      |               | 2.70 |
+| 9741.00 |   |               | 2.70 |
 
 - [initial source twitter](https://twitter.com/DeepNetAnon/status/1497772231816065028)
 - [priyom](https://priyom.org/)
