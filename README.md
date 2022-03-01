@@ -31,4 +31,4 @@ HAM bands (unlikely military) :
 - 7000-7200 kHz (40m)
 - 14100-14350 kHz (20m)
 
-please add verified frequencies and modulation, by creating a pull request!
+please add verified frequencies and modulation, by creating a pull request or an issue!
