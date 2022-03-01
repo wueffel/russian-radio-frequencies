@@ -14,7 +14,8 @@
 | 8131.00 | USB  | TU-95 Bombers | 2.70 |
 | 9741.00 |      |               | 2.70 |
 
-[Initial Source Twitter](https://twitter.com/DeepNetAnon/status/1497772231816065028)
+- [snitial source twitter](https://twitter.com/DeepNetAnon/status/1497772231816065028)
+- [priyom](https://priyom.org/)
 
 *remember:* always use the **"paste freq&mode"** button when 
 referring to a frequency!
@@ -24,11 +25,14 @@ filter: 2,40 kHz - 3,40 kHz is a good starting point for voice
 
 CW is the mode to use for morse code
 
-
-HAM bands (unlikely military) : 
+HAM bands ***(unlikely military)*** : 
 - 1800-2000 kHz (160m)
 - 3500-3800 kHz (80m)
 - 7000-7200 kHz (40m)
 - 14100-14350 kHz (20m)
 
 please add verified frequencies and modulation, by creating a pull request or an issue!
+
+
+### csv memories
+there is also a .csv file, which you can upload under the tab "memories" on the webSDR
