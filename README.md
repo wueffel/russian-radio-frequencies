@@ -1,16 +1,18 @@
 # russian-radio-frequencies
-## active radio frequencies to listen to on webSDR, for example http://websdr.ewi.utwente.nl:8901 ()
+## active radio frequencies to listen to on webSDR
 
-- 4220 kHz USB
-- 4615 kHz USB
-- 4625 kHz USB
-- 4813 kHz USB
-- 4946,5 kHz
-- 5125 kHz USB
-- 7933 kHz USB 
-- 8090 kHz USB
-- 8131 kHz USB (Russian Strategic Air Force Bombers TU-95)
-- 9741 kHz
+| freq (kHz)   | mode | label         | filter   |
+| ------- | ---- | ------------- | ---- |
+| 4220.00 | USB  |               | 2.70 |
+| 4615.00 | USB  |               | 2.70 |
+| 4625.00 | USB  |               | 2.70 |
+| 4813.00 | USB  |               | 2.70 |
+| 4946.50 |      |               | 2.70 |
+| 5125.00 | USB  |               | 2.70 |
+| 7933.00 | USB  |               | 2.70 |
+| 8090.00 | USB  |               | 2.70 |
+| 8131.00 | USB  | TU-95 Bombers | 2.70 |
+| 9741.00 |      |               | 2.70 |
 
 [Initial Source Twitter](https://twitter.com/DeepNetAnon/status/1497772231816065028)
 
