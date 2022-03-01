@@ -1,18 +1,18 @@
 # russian-radio-frequencies
 ## active radio frequencies to listen to on webSDR
 
-| freq    | mode | label                     | hi   |
+| freq    | mode | label                     | filter   |
 | ------- | ---- | ------------------------- | ---- |
 | 3756.00 | USB  | The pip (night)           | 2.70 |
-| 5448.00 | USB  | The pip (day)             | 2.70 |
 | 3828.00 | USB  | The squeaky wheel (night) | 2.70 |
-| 5473.00 | USB  | The squeaky wheel (day)   | 2.70 |
 | 4220.00 | USB  |                           | 2.70 |
 | 4615.00 | USB  |                           | 2.70 |
 | 4625.00 | USB  | UVB-76 "the buzzer"       | 2.70 |
 | 4813.00 | USB  |                           | 2.70 |
 | 4946.50 | USB  |                           | 2.70 |
 | 5125.00 | USB  |                           | 2.70 |
+| 5448.00 | USB  | The pip (day)             | 2.70 |
+| 5473.00 | USB  | The squeaky wheel (day)   | 2.70 |
 | 7933.00 | USB  |                           | 2.70 |
 | 8090.00 | USB  |                           | 2.70 |
 | 8131.00 | USB  | TU-95 Bombers             | 2.70 |
